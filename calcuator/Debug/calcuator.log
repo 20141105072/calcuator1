@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/12/24 8:18:07。
+     1>项目“C:\Users\jszx\Desktop\Windows计算器\Windows计算器(倒数和平方）\calcuator\calcuator\calcuator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\calcuator.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\calcuator.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt calcuatorDlg.cpp
+         calcuatorDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jszx\Desktop\Windows计算器\Windows计算器(倒数和平方）\calcuator\Debug\calcuator.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\calcuator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\jszx\Desktop\Windows计算器\Windows计算器(倒数和平方）\calcuator\Debug\calcuator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jszx\Desktop\Windows计算器\Windows计算器(倒数和平方）\calcuator\Debug\calcuator.lib" /MACHINE:X86 Debug\calcuator.res
+         Debug\calcuator.exe.embed.manifest.res
+         Debug\calcuator.obj
+         Debug\calcuatorDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\calcuator.exe.embed.manifest" /manifest Debug\calcuator.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         calcuator.vcxproj -> C:\Users\jszx\Desktop\Windows计算器\Windows计算器(倒数和平方）\calcuator\Debug\calcuator.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\calcuator.unsuccessfulbuild”。
+         正在对“Debug\calcuator.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\jszx\Desktop\Windows计算器\Windows计算器(倒数和平方）\calcuator\calcuator\calcuator.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.43
